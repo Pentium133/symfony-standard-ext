@@ -10,9 +10,9 @@ Updated bin/vendor script - added "lock" command
 
 Were added follow bundles:
 
-* **DoctrineFixturesBundle**
-* **DoctrineMigrationsBundle**
-* **StofDoctrineExtensionsBundle**
+* **DoctrineFixturesBundle** - http://github.com/symfony/DoctrineFixturesBundle
+* **DoctrineMigrationsBundle** - http://github.com/symfony/DoctrineMigrationsBundle
+* **StofDoctrineExtensionsBundle** - http://github.com/stof/StofDoctrineExtensionsBundle
 
 The Symfony Standard Edition comes pre-configured with the following bundles:
 	

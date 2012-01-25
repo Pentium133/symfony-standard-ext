@@ -3,3 +3,4 @@ app/cache/*
 app/logs/*
 vendor/
 .idea/
+web/app_dev2.php
